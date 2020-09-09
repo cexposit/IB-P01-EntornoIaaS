@@ -46,7 +46,7 @@ Hay al menos dos opciones para ello:
   La página [Install Ubuntu on Oracle VirtualBox](https://brb.nci.nih.gov/seqtools/installUbuntu.html)
   contiene las instrucciones a seguir para instalar Ubuntu como sistema invitado en Windows.
 
-Una opción alternativa que se considera menos adecuada consite en no instalar un sistema Linux sino acceder 
+Una opción alternativa que se considera menos adecuada consiste en no instalar un sistema Linux sino acceder 
 a la máquina virtual IaaS de la asignatura desde Windows usando para ello un cliente ssh. 
 Se recomienda para este caso instalar en Windows [el cliente ssh PuTTY](https://www.putty.org/) que puede Ud. descargar libremente.  
 [Esta imagen](https://raw.githubusercontent.com/fsande/IB-P01-EntornoIaaS/3b0223eef4fff02835108ac59ea8d2f2f26c43cc/img/Putty-connection.PNG)
